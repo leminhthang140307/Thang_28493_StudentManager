@@ -16,16 +16,27 @@
   -Nhấn phím F5 (hoặc nút Start trong IDE) để biên dịch và chạy ứng dụng.
 
 *Danh sách 5 commit chính.
+
  1.Commit hợp nhất từ nhánh feature/intro vào main, đánh dấu phiên bản v1.0 (có tag).
+
  2.Commit thêm chức năng xác thực (validation) tên sinh viên trên nhánh feature.
+
  3.Commit thêm bố cục giao diện (UI) và các điều khiển chính cho form.
+
  4.Commit dọn dẹp dự án (cleanup), thêm .gitignore và xóa các tệp cache.
+
  5.Commit khởi tạo dự án.
+
 *Link PR:
+
   https://github.com/leminhthang140307/Thang_28493_StudentManager/pull/1
+
 *Ảnh UI ứng dụng:
+
 <img width="1920" height="1021" alt="image" src="https://github.com/user-attachments/assets/2d4e2ba8-d4d0-4f95-8a80-300a935d1183" />
+
 *Link log:
+
 https://github.com/leminhthang140307/Thang_28493_StudentManager/commits/main/
 
 
