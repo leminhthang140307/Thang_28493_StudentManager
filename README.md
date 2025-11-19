@@ -6,13 +6,17 @@
 *Để chạy dự án StudentManager, bạn cần đảm bảo máy tính đã cài đặt các công cụ cần thiết và thực hiện các bước sau:
 
 1.Clone mã nguồn:
+ 
   -git clone [Đường dẫn GitHub của bạn]
 
 2.Mở Project:
+ 
   -Mở file StudentManager.sln bằng Visual Studio (hoặc IDE phù hợp).
 
 3.Biên dịch và Chạy:
+
   -Đảm bảo các gói phụ thuộc (dependencies) đã được tải về.
+
   -Nhấn phím F5 (hoặc nút Start trong IDE) để biên dịch và chạy ứng dụng.
 
 *Danh sách 5 commit chính.
