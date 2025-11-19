@@ -2,6 +2,7 @@
   + Tính năng chính đã hoàn thành (phiên bản v1.0):
   + Quản lý cơ bản: Khởi tạo cấu trúc dự án và giao diện chính.
   + Xác thực dữ liệu: Đã triển khai tính năng xác thực, đảm bảo rằng tên sinh viên không bị để trống khi thêm hoặc cập nhật dữ liệu.
+
 *Để chạy dự án StudentManager, bạn cần đảm bảo máy tính đã cài đặt các công cụ cần thiết và thực hiện các bước sau:
 1.Clone mã nguồn:
   -git clone [Đường dẫn GitHub của bạn]
